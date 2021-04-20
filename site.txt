@@ -1,0 +1,12 @@
+Site:
+sobre?
+r:Livraria online.
+
+Nome?
+r:space sheep
+
+
+Tabela de cores: 8E14D6
+		 7A06BF
+		 ffffff
+		 000000	

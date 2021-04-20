@@ -1,0 +1,38 @@
+@charset "utf-8";
+
+.temas-livros{
+    width: 960px;
+    height: 600px;
+    background-color:ghostwhite;
+    position: relative;
+    left: 14%;
+    top: 25px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 10px 10px rgb(236, 222, 222);
+}
+
+.temas-livros h2{
+    position: absolute;
+    left: 41%;
+    top: 35px;
+    font-size: 40px;
+    color: rgb(29, 29, 29);
+}
+
+.seleção{
+    position: absolute;
+    width: 900px;
+    height: 550px;
+    left: 3%;
+    top: 28px;
+}
+
+.seleção ul{
+    position: absolute;
+    top: 20%;
+    list-style: none;
+}
+
+.seleção li{
+    display: inline-block;
+}
